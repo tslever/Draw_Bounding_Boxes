@@ -1,0 +1,135 @@
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.xr.xml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\resources.pri
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\AppxManifest.xml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Core\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.build.appxrecipe
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\System.Runtime.dll
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.g.i.cs
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.g.cs
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.cs
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.xaml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.xaml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CopyComplete
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\thoma\Documents\AI\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.xr.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\resources.pri
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\AppxManifest.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Core\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.build.appxrecipe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\System.Runtime.dll
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.g.i.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.xaml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.xaml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CopyComplete
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes\Draw Bounding Boxes\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.xr.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\resources.pri
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\AppxManifest.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Core\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Draw Bounding Boxes.build.appxrecipe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\System.Runtime.dll
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\App.g.i.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\App.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\MainPage.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\App.xaml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\MainPage.xaml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\App.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\MainPage.xbf
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.csproj.CopyComplete
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.exe
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\Draw Bounding Boxes.pdb
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\thoma\Documents\AI\darknet\Draw Bounding Boxes--Original\Draw Bounding Boxes\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
